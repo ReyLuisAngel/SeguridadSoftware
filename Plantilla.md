@@ -2,8 +2,9 @@
 
 ## Descripción
 
-## Solucion
+## Solución
 
+## Solución 2
 ## Notas adicionales
 
 ## Referencias
