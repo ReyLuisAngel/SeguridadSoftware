@@ -14,3 +14,14 @@
 - plumbing
 - Glitch Cat
 - Nice netcat...
+# General Skills 2
+- Based
+- strings it
+- Wave a flag
+- Static ain't always noise
+- useless
+- Tab, Tab, Attack
+- Magikarp Ground Mission
+- repetitions
+- Big zip
+- First Find
